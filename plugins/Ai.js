@@ -20,7 +20,7 @@ let handler = async (m, { text, usedPrefix, command }) => {
       return m.reply('❌ الذكاء الاصطناعي ما رجّع رد.')
     }
 
-    await m.reply(`${json.data}\nAPI EMAM-ABOLELA`)
+    await m.reply(`${json.data}`)
 
   } catch (e) {
 
