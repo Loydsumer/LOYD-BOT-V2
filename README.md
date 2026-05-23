@@ -4,7 +4,7 @@
   <img src="https://files.catbox.moe/lgrhj3.jpg" alt="LOYD BOT" width="500"/>
 
   [![GitHub](https://img.shields.io/badge/GitHub-Loydsumer-blue?style=for-the-badge&logo=github)](https://github.com/Loydsumer)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner-green?style=for-the-badge&logo=whatsapp)](https://wa.me/4917672339436
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner-green?style=for-the-badge&logo=whatsapp)](https://wa.me/4917672339436)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-orange?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6kG3s0AgW2lYD8ad1L)
 
   **بوت واتساب خفيف وسريع مبني على [Baileys](https://github.com/Loydsumer/baileys-speed)**
